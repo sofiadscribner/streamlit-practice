@@ -1,7 +1,13 @@
-streamlit
-
 pandas
+
+zipfile
+
+plotly
 
 matplotlib
 
-plotly
+seaborn
+
+requests
+
+streamlit
