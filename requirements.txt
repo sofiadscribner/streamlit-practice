@@ -1,15 +1,11 @@
 pandas
 
-zipfile
+plotly
 
-plotly.express
-
-matplotlib.pyplot
+matplotlib
 
 seaborn
 
 requests
 
 streamlit
-
-io
